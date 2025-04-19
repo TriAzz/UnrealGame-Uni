@@ -53,6 +53,10 @@ The game was built in Unreal Engine using Blueprint visual scripting. Key system
 - Wave management system
 - HUD with power-up indicators and enemy counters
 
+## Requirements
+Unreal Editor must be installed to access and run this project
+The project was developed using Unreal Engine 4
+
 ## Student Information
 - Created by Thomas Fleming
 - Student Number: 221391076
