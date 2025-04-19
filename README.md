@@ -4,7 +4,7 @@
 This is a space shooter game developed in Unreal Engine where the player controls a ship at the bottom of the screen. The objective is to shoot down enemy ships before they either collide with the player or reach the bottom of the screen. The game features a wave-based enemy system, various enemy types with unique behaviors, collectable power-ups, and a boss battle.
 
 ## Development Context
-This game was created as a university assignment for SIT151 Game Fundamentals. The base assets, resources, and core game mechanics were provided by the university. Much of the foundational game was developed following tutorials and instructions from tutors.
+This game was created as a university assignment for SIT151 Game Fundamentals. The base assets, resources, and core game mechanics were provided by the university. Much of the foundational game was developed following tutorials and instructions from tutors. This was created early 2024.
 
 ## Features Added Independently
 The following features were developed independently without tutorial assistance:
